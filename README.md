@@ -1,2 +1,2 @@
-# MOOC_Student_Drop-Projects
- 
+# Projects
+Completed Projects
